@@ -1,0 +1,46 @@
+.container{
+     min-height: 540px;
+     max-width: 99.5%;
+     background-color: #ffffff;
+     margin: 5px;
+     border: 1px solid #D0D0D0;
+     box-shadow: 0 0 8px #D0D0D0;
+     border-radius: 0px;
+     padding: 7px;
+}
+.input-sm{
+  border: 1px solid #D0D0D0;
+}
+.form-control{
+  border-radius: 0px;
+}
+.saya{
+  border: 1px solid #000000;
+  box-shadow: 0 0 8px #606060;
+  margin-right: 10px;
+  padding-right: 10px;
+  max-width: 250px;
+  background-color: #ffffaa;
+}
+#kotakan{
+  background-color: #ffffff;
+  margin: 5px;
+  border: 1px solid #000000;
+  box-shadow: 0 0 8px #606060;
+  border-radius: 0px;
+  padding: 10px;
+}
+#chat{
+  border: 1px solid #000000;
+  box-shadow: 0 0 8px #606060;
+  margin: 5px;
+  padding: 10px;
+  max-width: 500px;
+}
+#isi_chat{
+  margin: 5px;
+  padding: 10px;
+}
+#waktu{
+  font-size: 20%;
+}
